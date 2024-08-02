@@ -1,0 +1,9 @@
+{
+  "name": "@livekit/prettier-config",
+  "version": "0.1.0",
+  "description": "A Prettier code style config for LiveKit projects",
+  "main": "index.json",
+  "repository": "git@github.com:livekit/prettier-config.git",
+  "author": "Tobias Fried <tobias@livekit.io>",
+  "license": "Apache-2.0"
+}
